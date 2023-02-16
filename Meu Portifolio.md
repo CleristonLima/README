@@ -1,4 +1,5 @@
 Meu Portifolio
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
 Este portifolio foi criado com o auxilio e suporte do curso de Python, SQL Server para iniciantes das plataformas de estudos.
 
