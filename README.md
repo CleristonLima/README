@@ -5,3 +5,7 @@ Nesse meu portifolio gostaria de mostrar os meus conhecimento nas linguagens de 
  * ASP.NET (MVC)
  * Java
  * C#
+ * HTML
+ * CSS
+ * JavaScript
+ * Android
